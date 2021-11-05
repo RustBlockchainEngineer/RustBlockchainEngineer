@@ -1,5 +1,5 @@
 ### Hi there 👋
-As one word,
+In a word,
 I am focused on developing smart contracts on the Solana blockchain network.
 
 Since 2020, I am working on Solana.(of course, with other chains together)
