@@ -13,4 +13,3 @@ My familiar skills on Solana are:
 - tokio async framework for test coverage in rust
 - interacting with Serum, Mercurial, Bonfida, Raydium ...
 
-I respect NDA. I will never share any my work what I signed NDA
