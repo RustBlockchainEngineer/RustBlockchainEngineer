@@ -9,8 +9,16 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="topstack2021a@gmail.com">
+  <a href="mailto:topstack2021a@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
+  </a>
+
+  <a href="mailto:topstack2021a@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
+  </a>
+
+  <a href="topstack2021a@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111609.png" alt="Skype" height="30" width="30">
   </a>
   
 </p>
