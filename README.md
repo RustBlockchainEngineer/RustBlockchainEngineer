@@ -1,12 +1,8 @@
-<h1 align="center">Solana Fullstack Lead Engineer</h1>
-
 <p align="center">
+  <h1>Solana Fullstack Lead Engineer</h1>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:topstack2021a@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="topstack2021a@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111609.png" alt="Skype" height="30" width="30">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:topstack2021a@gmail.com">
