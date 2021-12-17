@@ -33,13 +33,13 @@ Solana Fullstack Lead Engineer
 ![Anchor](https://img.shields.io/badge/Anchor-ff0040?style=flat-square&logo=anchor&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-ff0080?style=flat-square&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=flat-square&logo=javascript&logoColor=white)
-![Vuejs](https://img.shields.io/badge/Vue-ff00ff?style=flat-square&logo=Vuejs&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vuejs-ff00ff?style=flat-square&logo=Vuejs&logoColor=white)
 ![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-8000ff?style=flat-square&logo=Angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0040ff?style=flat-square&logo=CSS3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0080ff?style=flat-square&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-00ff00?style=flat-square&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0040ff?style=flat-square&logo=php&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-0080ff?style=flat-square&logo=mysql&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
