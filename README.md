@@ -68,7 +68,7 @@ Solana Fullstack Lead Engineer
 <a href="https://github.com/SolanaEngineer/token-list">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list" />
 </a>
-<br />
+
 <a href="https://github.com/CropperFinance/cropper_instructions">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions" />
 </a>
