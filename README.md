@@ -51,19 +51,19 @@ Solana Fullstack Lead Engineer
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" alt="drawing" width="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
 </span>
 <hr>
 
-<h3><b><samp>Project Histories</samp></b></h3>
+<h3><b><samp>Recent Projects</samp></b></h3>
 
 <span>
-<a href="https://github.com/amandewatnitrr/A-10-NEXA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
+<a href="https://github.com/CropperFinance/cropper_instructions">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions" />
 </a>
 <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
