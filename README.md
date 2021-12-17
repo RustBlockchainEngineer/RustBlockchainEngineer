@@ -39,6 +39,7 @@ Solana Fullstack Lead Engineer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1572B6?style=flat-square&logo=php&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-1572B6?style=flat-square&logo=mysql&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
