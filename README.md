@@ -68,13 +68,14 @@ Solana Fullstack Lead Engineer
 <a href="https://github.com/SolanaEngineer/token-list">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list" />
 </a>
+</span>
+<span>
 <a href="https://github.com/CropperFinance/cropper_instructions">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions" />
 </a>
 <a href="https://github.com/CropperFinance/cropper_instructions">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions" />
 </a>
-
 </span>
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁ & A Competitive Programmer </samp></h4></p>
