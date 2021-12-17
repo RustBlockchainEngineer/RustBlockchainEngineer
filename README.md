@@ -29,17 +29,17 @@ Solana Fullstack Lead Engineer
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Rust](https://img.shields.io/badge/Rust-ff0000?style=flat-square&logo=Rust&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-ff0040?style=flat-square&logo=anchor&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-ff0080?style=flat-square&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=flat-square&logo=javascript&logoColor=white)
-![Vuejs](https://img.shields.io/badge/Vuejs-ff00ff?style=flat-square&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-8000ff?style=flat-square&logo=Angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0040ff?style=flat-square&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-0080ff?style=flat-square&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ff0000?style=for-the-badge&logo=Rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-ff0040?style=for-the-badge&logo=anchor&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-ff0080?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=for-the-badge&logo=javascript&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vuejs-ff00ff?style=for-the-badge&logo=Vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-bf00ff?style=for-the-badge&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-8000ff?style=for-the-badge&logo=Angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=for-the-badge&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0040ff?style=for-the-badge&logo=php&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-0080ff?style=for-the-badge&logo=mysql&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
@@ -60,18 +60,6 @@ Solana Fullstack Lead Engineer
 ##
 
 <h3><b><samp>Tools and Platform</samp></b></h3>
-
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
