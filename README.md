@@ -29,7 +29,7 @@ Solana Fullstack Lead Engineer
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Rust](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust?style=flat-square&logo=Rust&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
