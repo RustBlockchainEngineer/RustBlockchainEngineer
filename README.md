@@ -33,7 +33,7 @@ Solana Fullstack Lead Engineer
 ![Anchor](https://img.shields.io/badge/Anchor-C51A4A?style=flat-square&logo=anchor&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-777BB4?style=flat-square&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-DD1100?style=flat-square&logo=javascript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-27338e?style=flat-square&logo=vue&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vue-27338e?style=flat-square&logo=Vuejs&logoColor=white)
 ![React](https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-4479A1?style=flat-square&logo=Angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
