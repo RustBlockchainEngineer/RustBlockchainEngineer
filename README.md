@@ -65,14 +65,14 @@ Solana Fullstack Lead Engineer
 <a href="https://github.com/CropperFinance/cropper_instructions">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions&show_owner=true&theme=outrun" />
 </a>
-<a href="https://github.com/SolanaEngineer/token-list">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list&show_owner=true&theme=outrun" />
+<a href="https://github.com/SolanaEngineer/vovo-finance-protocol">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=vovo-finance-protocol&show_owner=true&theme=outrun" />
 </a>
 </p>
 
 <p>
-<a href="https://github.com/CropperFinance/cropper_instructions">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions&show_owner=true&theme=outrun" />
+<a href="https://github.com/SolanaEngineer/token-list">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list&show_owner=true&theme=outrun" />
 </a>
 <a href="https://github.com/CropperFinance/cropper_instructions">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions&show_owner=true&theme=outrun" />
