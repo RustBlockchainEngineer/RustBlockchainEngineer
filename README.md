@@ -70,11 +70,6 @@ Solana Fullstack Lead Engineer
 </a>
 </p>
 
-<p>
-<a href="https://github.com/SolanaEngineer/token-list">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list&show_owner=true&theme=outrun" />
-</a>
-</p>
 <!-- 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁ & A Competitive Programmer </samp></h4></p>
 
