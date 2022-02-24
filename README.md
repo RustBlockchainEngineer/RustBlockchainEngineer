@@ -70,6 +70,7 @@ Solana Fullstack Lead Engineer
 </a>
 </p>
 
+<br/>
 <p>
 <a href="https://github.com/SolanaEngineer/sol-liquity">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=sol-liquity&show_owner=true&theme=outrun" />
@@ -79,6 +80,34 @@ Solana Fullstack Lead Engineer
 </a>
 </p>
 
+
+<br/>
+<p>
+<a href="https://github.com/SolanaEngineer/atlas-farm-contracts">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=atlas-farm-contracts&show_owner=true&theme=outrun" />
+</a>
+<a href="https://github.com/SolanaEngineer/atlas-airdrop-vesting">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=atlas-airdrop-vesting&show_owner=true&theme=outrun" />
+</a>
+</p>
+
+
+<br/>
+<p>
+<a href="https://github.com/SolanaEngineer/nft-launchpad">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=nft-launchpad&show_owner=true&theme=outrun" />
+</a>
+<a href="https://github.com/SolanaEngineer/token-vesting">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-vesting&show_owner=true&theme=outrun" />
+</a>
+</p>
+
+<br/>
+<p>
+<a href="https://github.com/RatioFinance/ratio-assignment">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=ratio-assignment&show_owner=true&theme=outrun" />
+</a>
+</p>
 <!-- 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁ & A Competitive Programmer </samp></h4></p>
 
