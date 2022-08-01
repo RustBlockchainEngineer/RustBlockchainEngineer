@@ -4,14 +4,6 @@ Solana Fullstack Lead Engineer
   <a href="mailto:topstack2021a@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/hongbobee">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hongbo-li-650674217">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
-  </a>
 
 </h1>
 
