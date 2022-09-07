@@ -16,7 +16,6 @@ Solana Fullstack Lead Engineer
 ![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0040ff?style=flat-square&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-0080ff?style=flat-square&logo=mysql&logoColor=white)
 
 
 <p align="left"> 
