@@ -90,10 +90,4 @@ Senior Rust Blockchain Engineer
 </a>
 </p>
 
-<br/>
-<p>
-<a href="https://github.com/RatioFinance/ratio-assignment">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RatioFinance&repo=ratio-assignment&show_owner=true&theme=outrun" />
-</a>
-</p>
 
